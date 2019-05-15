@@ -1,0 +1,17 @@
+{
+  "name": "@kseirin/figma-integration",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "mocha",
+    "get-color-scheme": "src/get-color-scheme.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kseirin/figma-integration.git"
+  },
+  "author": "Kseirin",
+  "dependencies": {
+    "mocha": "^6.1.4"
+  }
+}
